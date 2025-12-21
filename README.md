@@ -1,5 +1,33 @@
-# 💫 About Me:
-<br>🔭 I’m currently working on<br><br>Problem solving & DSA with C++<br><br>Mini projects in Python & Machine Learning<br><br>Frontend projects using HTML, CSS, JavaScript<br>👯 I’m looking to collaborate on<br><br>Beginner-friendly open source projects<br><br>Frontend websites & UI improvements<br><br>College-level AI/ML or Python projects<br><br>🤝 I’m looking for help with<br><br>Advanced DSA & competitive programming<br><br>Real-world Machine Learning projects<br><br>Contributing effectively to open source<br><br>🌱 I’m currently learning<br><br>Data Structures & Algorithms (C++)<br><br>Machine Learning with Python<br><br>JavaScript (DOM, ES6+) & modern frontend tools<br><br>💬 Ask me about<br><br>HTML, CSS, basic JavaScript<br><br>Git & GitHub workflow<br><br>Python basics and beginner ML concepts<br><br>⚡ Fun fact<br><br>I believe consistency beats talent, and I code a little every day 🚀
+# 💫 About Me
+
+🔭 **Currently working on**
+- Problem solving & **DSA with C++**
+- Mini projects in **Python & Machine Learning**
+- Frontend projects using **HTML, CSS & JavaScript**
+
+👯 **Looking to collaborate on**
+- Beginner-friendly **open source projects**
+- Frontend websites & **UI improvements**
+- College-level **AI/ML or Python projects**
+
+🤝 **Looking for help with**
+- Advanced **DSA & competitive programming**
+- Real-world **Machine Learning projects**
+- Effective **open-source contributions**
+
+🌱 **Currently learning**
+- **Data Structures & Algorithms (C++)**
+- **Machine Learning with Python**
+- **JavaScript (DOM, ES6+) & modern frontend tools**
+
+💬 **Ask me about**
+- HTML, CSS & basic JavaScript  
+- Git & GitHub workflows  
+- Python basics & beginner ML concepts  
+
+⚡ **Fun fact**  
+I believe **consistency beats talent**, and I code a little every day 🚀
+
 
 
 ## 🌐 Socials:
